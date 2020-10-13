@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "Mir";
+    src: url("../fonts/Mir.woff") format('woff');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Mir";
+    src: url("../fonts/Mir-Bold.woff") format('woff');
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Mir";
+    src: url("../fonts/Mir-Medium.woff") format('woff');
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Mir";
+    src: url("../fonts/Mir-MediumItalic.woff") format('woff');
+    font-style: italic;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Chocolate";
+    src: url("../fonts/Chocolate.woff") format('woff');
+    font-style: normal;
+    font-weight: normal;
+}
